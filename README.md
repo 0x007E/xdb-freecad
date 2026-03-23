@@ -4,8 +4,9 @@
 
 This mechanical base design is used and configured via `freecad-cli` in following repositories:
 
-| Repository | Link |
-|:----------:|:----:|
+| Repository | Link                                        | Description              |
+|:----------:|:-------------------------------------------:|:-------------------------|
+| `ADB`      | [0x007E/adb](https://github.com/0x007E/adb) | Analog Development Board |
 
 ## Downloads
 
