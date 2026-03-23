@@ -7,6 +7,7 @@ This mechanical base design is used and configured via `freecad-cli` in followin
 | Repository | Link                                        | Description                |
 |:----------:|:-------------------------------------------:|:---------------------------|
 | `ADB`      | [0x007E/adb](https://github.com/0x007E/adb) | Analog Development Board   |
+| `IDB`      | [0x007E/idb](https://github.com/0x007E/idb) | Inverter Development Board |
 | `ANL`      | [0x007E/anl](https://github.com/0x007E/anl) | AND Logic Board            |
 
 ## Downloads
