@@ -4,11 +4,12 @@
 
 This mechanical base design is used and configured via `freecad-cli` in following repositories:
 
-| Repository | Link                                        | Description                |
-|:----------:|:-------------------------------------------:|:---------------------------|
-| `ADB`      | [0x007E/adb](https://github.com/0x007E/adb) | Analog Development Board   |
-| `IDB`      | [0x007E/idb](https://github.com/0x007E/idb) | Inverter Development Board |
-| `ANL`      | [0x007E/anl](https://github.com/0x007E/anl) | AND Logic Board            |
+| Repository | Link                                        | Description                  |
+|:----------:|:-------------------------------------------:|:-----------------------------|
+| `ADB`      | [0x007E/adb](https://github.com/0x007E/adb) | Analog Development Board     |
+| `IDB`      | [0x007E/idb](https://github.com/0x007E/idb) | Inverter Development Board   |
+| `CDB`      | [0x007E/cdb](https://github.com/0x007E/cdb) | Comparator Development Board |
+| `ANL`      | [0x007E/anl](https://github.com/0x007E/anl) | AND Logic Board              |
 
 ## Downloads
 
