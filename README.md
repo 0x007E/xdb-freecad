@@ -10,6 +10,7 @@ This mechanical base design is used and configured via `freecad-cli` in followin
 | `IDB`      | [0x007E/idb](https://github.com/0x007E/idb) | Inverter Development Board   |
 | `CDB`      | [0x007E/cdb](https://github.com/0x007E/cdb) | Comparator Development Board |
 | `LDB`      | [0x007E/ldb](https://github.com/0x007E/ldb) | LED Development Board        |
+| `SDB`      | [0x007E/sdb](https://github.com/0x007E/sdb) | Switch Development Board     |
 | `ANL`      | [0x007E/anl](https://github.com/0x007E/anl) | AND Logic Board              |
 | `JKF`      | [0x007E/jkf](https://github.com/0x007E/jkf) | JK-FlipFlop Board            |
 
