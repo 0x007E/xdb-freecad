@@ -13,6 +13,7 @@ This mechanical base design is used and configured via `freecad-cli` in followin
 | `SDB`      | [0x007E/sdb](https://github.com/0x007E/sdb) | Switch Development Board     |
 | `ANL`      | [0x007E/anl](https://github.com/0x007E/anl) | AND Logic Board              |
 | `ORL`      | [0x007E/orl](https://github.com/0x007E/orl) | OR Logic Board               |
+| `NAL`      | [0x007E/nal](https://github.com/0x007E/nal) | NAND Logic Board             |
 | `JKF`      | [0x007E/jkf](https://github.com/0x007E/jkf) | JK-FlipFlop Board            |
 
 ## Downloads
