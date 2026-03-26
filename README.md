@@ -16,6 +16,7 @@ This mechanical base design is used and configured via `freecad-cli` in followin
 | `NAL`      | [0x007E/nal](https://github.com/0x007E/nal) | NAND Logic Board             |
 | `NOL`      | [0x007E/nol](https://github.com/0x007E/nol) | NOR Logic Board              |
 | `XNL`      | [0x007E/xnl](https://github.com/0x007E/xnl) | XNOR Logic Board             |
+| `XOL`      | [0x007E/xol](https://github.com/0x007E/xol) | XOR Logic Board              |
 | `JKF`      | [0x007E/jkf](https://github.com/0x007E/jkf) | JK-FlipFlop Board            |
 
 ## Downloads
