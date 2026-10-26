@@ -18,6 +18,7 @@ This mechanical base design is used and configured via `freecad-cli` in followin
 | `XNL`      | [0x007E/xnl](https://github.com/0x007E/xnl) | XNOR Logic Board             |
 | `XOL`      | [0x007E/xol](https://github.com/0x007E/xol) | XOR Logic Board              |
 | `JKF`      | [0x007E/jkf](https://github.com/0x007E/jkf) | JK-FlipFlop Board            |
+| `OSR`      | [0x007E/osr](https://github.com/0x007E/osr) | Output Shift Register Board  |
 
 ## Downloads
 
